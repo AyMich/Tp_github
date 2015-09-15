@@ -1,4 +1,4 @@
-/* polices*/
+		/* polices*/
 
 @font-face {
     font-family: 'anudawregular';
@@ -23,7 +23,7 @@
 
 }
 
-/* Menu navigation*/
+		/* Menu navigation*/
 
 .a_one
 {
@@ -65,7 +65,7 @@
 	height: 80px;
 }
 
-					/* Titre*/
+		/* Titre*/
 
 h1
 {
@@ -78,7 +78,7 @@ h1
 	left: 90px;
 }
 
-					/* Corps */
+		/* Corps */
 
 body
 {
@@ -92,5 +92,23 @@ body
 	height: 685px;
 	margin: 80px 0px 0px -20px;
 	position: absolute;
+}
+
+		/* pied de page*/
+
+#social
+{
+	position: absolute;
+	top: 762px;
+	left: -12px;
+	bottom: -8px;
+	background-color: rgba(54, 56, 52, 0.83);
+	width: 1454px;
+}
+
+#pouce_pouce
+{
+	margin-left: 600px;
+	margin-top: 10px;
 }
 		
