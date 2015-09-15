@@ -74,7 +74,23 @@ h1
 	color:#ced80f;
 	position: absolute;
 	font-size: 20px;
-	top: 3px;
+	top: -70px;
 	left: 90px;
+}
+
+					/* Corps */
+
+body
+{
+	background: url(img/fond.jpg) no-repeat;
+}
+
+#bloc
+{
+	background-color: rgba(255,  255,  255, 0.12);
+	width: 1454px;
+	height: 685px;
+	margin: 80px 0px 0px -20px;
+	position: absolute;
 }
 		
